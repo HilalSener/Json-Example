@@ -1,0 +1,11 @@
+c:\users\hilal sener\documents\visual studio 2015\Projects\jsonExample\jsonExample\bin\Debug\jsonExample.exe.config
+c:\users\hilal sener\documents\visual studio 2015\Projects\jsonExample\jsonExample\bin\Debug\jsonExample.exe
+c:\users\hilal sener\documents\visual studio 2015\Projects\jsonExample\jsonExample\bin\Debug\jsonExample.pdb
+c:\users\hilal sener\documents\visual studio 2015\Projects\jsonExample\jsonExample\obj\Debug\jsonExample.csprojResolveAssemblyReference.cache
+c:\users\hilal sener\documents\visual studio 2015\Projects\jsonExample\jsonExample\obj\Debug\jsonExample.exe
+c:\users\hilal sener\documents\visual studio 2015\Projects\jsonExample\jsonExample\obj\Debug\jsonExample.pdb
+c:\users\hilal sener\documents\visual studio 2015\Projects\jsonExample\jsonExample\bin\Debug\Newtonsoft.Json.dll
+c:\users\hilal sener\documents\visual studio 2015\Projects\jsonExample\jsonExample\bin\Debug\Newtonsoft.Json.xml
+C:\Github\json-Example\jsonExample\bin\Debug\jsonExample.exe.config
+C:\Github\json-Example\jsonExample\obj\Debug\jsonExample.exe
+C:\Github\json-Example\jsonExample\obj\Debug\jsonExample.pdb
