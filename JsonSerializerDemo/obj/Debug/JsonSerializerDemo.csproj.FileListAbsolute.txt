@@ -1,0 +1,8 @@
+C:\Github\json-Example\JsonSerializerDemo\bin\Debug\JsonSerializerDemo.exe.config
+C:\Github\json-Example\JsonSerializerDemo\bin\Debug\JsonSerializerDemo.exe
+C:\Github\json-Example\JsonSerializerDemo\bin\Debug\JsonSerializerDemo.pdb
+C:\Github\json-Example\JsonSerializerDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Github\json-Example\JsonSerializerDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Github\json-Example\JsonSerializerDemo\obj\Debug\JsonSerializerDemo.csprojResolveAssemblyReference.cache
+C:\Github\json-Example\JsonSerializerDemo\obj\Debug\JsonSerializerDemo.exe
+C:\Github\json-Example\JsonSerializerDemo\obj\Debug\JsonSerializerDemo.pdb

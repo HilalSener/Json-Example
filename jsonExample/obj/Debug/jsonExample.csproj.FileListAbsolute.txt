@@ -9,3 +9,8 @@ c:\users\hilal sener\documents\visual studio 2015\Projects\jsonExample\jsonExamp
 C:\Github\json-Example\jsonExample\bin\Debug\jsonExample.exe.config
 C:\Github\json-Example\jsonExample\obj\Debug\jsonExample.exe
 C:\Github\json-Example\jsonExample\obj\Debug\jsonExample.pdb
+C:\Github\json-Example\jsonExample\bin\Debug\jsonExample.exe
+C:\Github\json-Example\jsonExample\bin\Debug\jsonExample.pdb
+C:\Github\json-Example\jsonExample\bin\Debug\Newtonsoft.Json.dll
+C:\Github\json-Example\jsonExample\bin\Debug\Newtonsoft.Json.xml
+C:\Github\json-Example\jsonExample\obj\Debug\jsonExample.csprojResolveAssemblyReference.cache

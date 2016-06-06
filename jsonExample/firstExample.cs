@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace jsonExample
 {
-    class Program
+    class firstExample
     {
         static void Main(string[] args)
         {
@@ -23,8 +23,9 @@ namespace jsonExample
                 var json = wc.DownloadString(uri);
 
                 var djson = JsonConvert.DeserializeObject(json);
+
                 Console.WriteLine(djson);
             }
-        }
+    }
     }
 }
