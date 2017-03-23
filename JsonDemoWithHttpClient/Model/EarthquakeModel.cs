@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace JsonDemoWithHttpClient.Model
 {
-    public class Earthquake
+    public class EarthquakeModel
     {
         public string Date { get; set; }
         public double Latitude { get; set; }
@@ -20,9 +20,8 @@ namespace JsonDemoWithHttpClient.Model
         public string Result { get; set; }
     }
 
-    public class EarthquakeModel
+    public class EarthquakeModelList
     {
-        public List<Earthquake> Earthquakes { get; set; }
-        //public List<object> Errors { get; set; }
+        public List<EarthquakeModel> Earthquakes { get; set; }
     }
 }

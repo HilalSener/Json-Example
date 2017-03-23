@@ -13,7 +13,6 @@ namespace JsonDemoWithHttpClient
     public class Program
     {
         private static string Uri = "http://sondepremler20160728065405.azurewebsites.net/last";
-
         public static void Main(string[] args)
         {
             Console.WriteLine("***** Datalar Getiriliyor *****");
@@ -25,7 +24,7 @@ namespace JsonDemoWithHttpClient
             }).GetAwaiter().GetResult();
         }
 
-        public static async Task<EarthquakeModel> GetEarthquke()
+        public static async Task<List<EarthquakeModelList>> GetEarthquke()
         {
             using (var client = new HttpClient())
             {
@@ -33,11 +32,12 @@ namespace JsonDemoWithHttpClient
                 client.DefaultRequestHeaders.Add("Accept", "appliction/json");
                 var response = await client.SendAsync(request);
                 var result = response.Content.ReadAsStringAsync().Result;
-                var myreturn = JsonConvert.DeserializeObject<EarthquakeModel>(result);
-
+                var myreturn = JsonConvert.DeserializeObject<List<EarthquakeModelList>>(result);
+                
+                //Console.WriteLine(myreturn.Earthquakes.Count);
                 Console.WriteLine(myreturn);
                 Console.ReadKey();
-
+                
                 return myreturn;
             }
         }
