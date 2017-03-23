@@ -14,3 +14,10 @@ C:\Github\json-Example\jsonExample\bin\Debug\jsonExample.pdb
 C:\Github\json-Example\jsonExample\bin\Debug\Newtonsoft.Json.dll
 C:\Github\json-Example\jsonExample\bin\Debug\Newtonsoft.Json.xml
 C:\Github\json-Example\jsonExample\obj\Debug\jsonExample.csprojResolveAssemblyReference.cache
+C:\Github\json-Example\json-Example\jsonExample\bin\Debug\jsonExample.exe.config
+C:\Github\json-Example\json-Example\jsonExample\bin\Debug\jsonExample.exe
+C:\Github\json-Example\json-Example\jsonExample\bin\Debug\jsonExample.pdb
+C:\Github\json-Example\json-Example\jsonExample\bin\Debug\Newtonsoft.Json.dll
+C:\Github\json-Example\json-Example\jsonExample\bin\Debug\Newtonsoft.Json.xml
+C:\Github\json-Example\json-Example\jsonExample\obj\Debug\jsonExample.exe
+C:\Github\json-Example\json-Example\jsonExample\obj\Debug\jsonExample.pdb
